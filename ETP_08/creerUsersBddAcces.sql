@@ -1,0 +1,162 @@
+-- Script SQL généré automatiquement le 2026-01-07 13:15:30
+-- Utilisateur: Charlotte RUIZ
+CREATE USER IF NOT EXISTS 'cruiz'@'%' IDENTIFIED BY '3cM>c/A+zt1a';
+CREATE DATABASE IF NOT EXISTS st_cruiz;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_cruiz.* TO 'cruiz'@'%';
+
+-- Utilisateur: Noemie SAMSON
+CREATE USER IF NOT EXISTS 'nsamson'@'%' IDENTIFIED BY '8rhUz+A7?$*v';
+CREATE DATABASE IF NOT EXISTS st_nsamson;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_nsamson.* TO 'nsamson'@'%';
+
+-- Utilisateur: Myrtille BONHOMME
+CREATE USER IF NOT EXISTS 'mbonhomme'@'%' IDENTIFIED BY '2w8anw&!/ZVC';
+CREATE DATABASE IF NOT EXISTS st_mbonhomme;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mbonhomme.* TO 'mbonhomme'@'%';
+
+-- Utilisateur: Arthur LELEU
+CREATE USER IF NOT EXISTS 'aleleu'@'%' IDENTIFIED BY 'Iy/1VqhX?.6S';
+CREATE DATABASE IF NOT EXISTS st_aleleu;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_aleleu.* TO 'aleleu'@'%';
+
+-- Utilisateur: Emilie BRIERE
+CREATE USER IF NOT EXISTS 'ebriere'@'%' IDENTIFIED BY 'Bq?t1g4Lz*-4';
+CREATE DATABASE IF NOT EXISTS st_ebriere;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_ebriere.* TO 'ebriere'@'%';
+
+-- Utilisateur: Charlotte AUVRAY
+CREATE USER IF NOT EXISTS 'cauvray'@'%' IDENTIFIED BY '2n**f+4VN>$M';
+CREATE DATABASE IF NOT EXISTS st_cauvray;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_cauvray.* TO 'cauvray'@'%';
+
+-- Utilisateur: Noemie PAGE
+CREATE USER IF NOT EXISTS 'npage'@'%' IDENTIFIED BY '2%JySm9Prh-n';
+CREATE DATABASE IF NOT EXISTS st_npage;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_npage.* TO 'npage'@'%';
+
+-- Utilisateur: Malcom PORTIER
+CREATE USER IF NOT EXISTS 'mportier'@'%' IDENTIFIED BY '5f2!KBbh>58E';
+CREATE DATABASE IF NOT EXISTS st_mportier;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mportier.* TO 'mportier'@'%';
+
+-- Utilisateur: Arthur VERGNE
+CREATE USER IF NOT EXISTS 'avergne'@'%' IDENTIFIED BY '71IIPE>xw?Ka';
+CREATE DATABASE IF NOT EXISTS st_avergne;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_avergne.* TO 'avergne'@'%';
+
+-- Utilisateur: Xavier Bertrand DE LA VILLETANAY
+CREATE USER IF NOT EXISTS 'xdelavilletanay'@'%' IDENTIFIED BY 'a2HrsS<H2m$b';
+CREATE DATABASE IF NOT EXISTS st_xdelavilletanay;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_xdelavilletanay.* TO 'xdelavilletanay'@'%';
+
+-- Utilisateur: Elodie DUPONT-MARTIN
+CREATE USER IF NOT EXISTS 'edupontmartin'@'%' IDENTIFIED BY '5nMTH9x=eM<m';
+CREATE DATABASE IF NOT EXISTS st_edupontmartin;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_edupontmartin.* TO 'edupontmartin'@'%';
+
+-- Utilisateur: Jean-Luc O'CONNOR
+CREATE USER IF NOT EXISTS 'joconnor'@'%' IDENTIFIED BY 'R739j!/ibCyw';
+CREATE DATABASE IF NOT EXISTS st_joconnor;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_joconnor.* TO 'joconnor'@'%';
+
+-- Utilisateur: Anais DE LA FONTAINE
+CREATE USER IF NOT EXISTS 'adelafontaine'@'%' IDENTIFIED BY 'A><#1W37eqVS';
+CREATE DATABASE IF NOT EXISTS st_adelafontaine;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_adelafontaine.* TO 'adelafontaine'@'%';
+
+-- Utilisateur: Pierre-Francois LEFEVRE
+CREATE USER IF NOT EXISTS 'plefevre'@'%' IDENTIFIED BY 'P*c.s9>#-J1z';
+CREATE DATABASE IF NOT EXISTS st_plefevre;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_plefevre.* TO 'plefevre'@'%';
+
+-- Utilisateur: Melanie D'ANGELIS
+CREATE USER IF NOT EXISTS 'mdangelis'@'%' IDENTIFIED BY 'ZF5S35E=>hid';
+CREATE DATABASE IF NOT EXISTS st_mdangelis;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mdangelis.* TO 'mdangelis'@'%';
+
+-- Utilisateur: Sophie VAN DEN BERGHE
+CREATE USER IF NOT EXISTS 'svandenberghe'@'%' IDENTIFIED BY 'J!NFAd8g>q6E';
+CREATE DATABASE IF NOT EXISTS st_svandenberghe;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_svandenberghe.* TO 'svandenberghe'@'%';
+
+-- Utilisateur: Michael BERNARD
+CREATE USER IF NOT EXISTS 'mbernard'@'%' IDENTIFIED BY 'D+=7yA%wsR5o';
+CREATE DATABASE IF NOT EXISTS st_mbernard;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mbernard.* TO 'mbernard'@'%';
+
+-- Utilisateur: Francois Xavier SAINT-ETIENNE
+CREATE USER IF NOT EXISTS 'fsaintetienne'@'%' IDENTIFIED BY 'H!u1Cf2.+in4';
+CREATE DATABASE IF NOT EXISTS st_fsaintetienne;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_fsaintetienne.* TO 'fsaintetienne'@'%';
+
+-- Utilisateur: Cecile MULLER
+CREATE USER IF NOT EXISTS 'cmuller'@'%' IDENTIFIED BY 'BQ%D989.ng>c';
+CREATE DATABASE IF NOT EXISTS st_cmuller;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_cmuller.* TO 'cmuller'@'%';
+
+-- Utilisateur: Marie-Claire LO'PEZ
+CREATE USER IF NOT EXISTS 'mlopez'@'%' IDENTIFIED BY 'yFS4Te?=vQ6M';
+CREATE DATABASE IF NOT EXISTS st_mlopez;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mlopez.* TO 'mlopez'@'%';
+
+-- Utilisateur: Theo VAN HOUTEN
+CREATE USER IF NOT EXISTS 'tvanhouten'@'%' IDENTIFIED BY 'yJL4KA-8m6!k';
+CREATE DATABASE IF NOT EXISTS st_tvanhouten;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_tvanhouten.* TO 'tvanhouten'@'%';
+
+-- Utilisateur: Lea DUPUIS-MOREAU
+CREATE USER IF NOT EXISTS 'ldupuismoreau'@'%' IDENTIFIED BY 'E%s89Nj@=W%C';
+CREATE DATABASE IF NOT EXISTS st_ldupuismoreau;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_ldupuismoreau.* TO 'ldupuismoreau'@'%';
+
+-- Utilisateur: Marc-Andre LOISELLE
+CREATE USER IF NOT EXISTS 'mloiselle'@'%' IDENTIFIED BY '8aB>+4w6@Rik';
+CREATE DATABASE IF NOT EXISTS st_mloiselle;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mloiselle.* TO 'mloiselle'@'%';
+
+-- Utilisateur: Arthur MICHEL
+CREATE USER IF NOT EXISTS 'amichel'@'%' IDENTIFIED BY 'HEl%.t*<F7A9';
+CREATE DATABASE IF NOT EXISTS st_amichel;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_amichel.* TO 'amichel'@'%';
+
+-- Utilisateur: Sebastien DUPONT
+CREATE USER IF NOT EXISTS 'sdupont'@'%' IDENTIFIED BY 'T*o1<%3S+vTb';
+CREATE DATABASE IF NOT EXISTS st_sdupont;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_sdupont.* TO 'sdupont'@'%';
+
+-- Utilisateur: Ines MARCHAL
+CREATE USER IF NOT EXISTS 'imarchal'@'%' IDENTIFIED BY '4$kXd$pn?z6X';
+CREATE DATABASE IF NOT EXISTS st_imarchal;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_imarchal.* TO 'imarchal'@'%';
+
+-- Utilisateur: Emilie GILLET
+CREATE USER IF NOT EXISTS 'egillet'@'%' IDENTIFIED BY 'J%o3G1wX@hjP';
+CREATE DATABASE IF NOT EXISTS st_egillet;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_egillet.* TO 'egillet'@'%';
+
+-- Utilisateur: Charlotte GAY
+CREATE USER IF NOT EXISTS 'cgay'@'%' IDENTIFIED BY 'mJE3-Y&3N1Zh';
+CREATE DATABASE IF NOT EXISTS st_cgay;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_cgay.* TO 'cgay'@'%';
+
+-- Utilisateur: Noemie CORDIER
+CREATE USER IF NOT EXISTS 'ncordier'@'%' IDENTIFIED BY 'ff-UYH6u?k8N';
+CREATE DATABASE IF NOT EXISTS st_ncordier;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_ncordier.* TO 'ncordier'@'%';
+
+-- Utilisateur: Martin BUISSON
+CREATE USER IF NOT EXISTS 'mbuisson'@'%' IDENTIFIED BY 'X@ce9V@?5VgG';
+CREATE DATABASE IF NOT EXISTS st_mbuisson;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_mbuisson.* TO 'mbuisson'@'%';
+
+-- Utilisateur: Ines DOS SANTOS
+CREATE USER IF NOT EXISTS 'idossantos'@'%' IDENTIFIED BY 'F17f$V4*Tr7Q';
+CREATE DATABASE IF NOT EXISTS st_idossantos;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_idossantos.* TO 'idossantos'@'%';
+
+-- Utilisateur: Emilie LEVY
+CREATE USER IF NOT EXISTS 'elevy'@'%' IDENTIFIED BY 'Y!%uoWRt3G9A';
+CREATE DATABASE IF NOT EXISTS st_elevy;
+GRANT CREATE, ALTER, DROP, INDEX, SELECT, INSERT, UPDATE, DELETE ON st_elevy.* TO 'elevy'@'%';
+
+FLUSH PRIVILEGES;
